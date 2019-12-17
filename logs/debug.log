@@ -1,0 +1,8 @@
+2019-12-17 13:53:24,527 [DEBUG ] Main – Hello from Log4j 2
+2019-12-17 13:53:24,559 [DEBUG ] Main – {}
+2019-12-17 13:53:24,559 [TRACE ] Main – the built-in TRACE level
+2019-12-17 13:53:24,559 [DEBUG ] Main – the built-in DEBUG level
+2019-12-17 14:05:41,560 [DEBUG ] Main – Hello from Log4j 
+2019-12-17 14:05:41,570 [DEBUG ] Main – {}
+2019-12-17 14:05:41,570 [TRACE ] Main – the built-in TRACE level
+2019-12-17 14:05:41,570 [DEBUG ] Main – the built-in DEBUG level

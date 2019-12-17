@@ -1,0 +1,16 @@
+2019-12-17 13:53:24,554 [DIAG  ] Main – a diagnostic message
+2019-12-17 13:53:24,558 [NOTICE] Main – another diagnostic message
+2019-12-17 13:53:24,558 [REPAIR] Main – another REPAIR message
+2019-12-17 13:53:24,559 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-12-17 13:53:24,559 [INFO  ] Main – the built-in INFO level
+2019-12-17 13:53:24,559 [WARN  ] Main – the built-in WARN level
+2019-12-17 13:53:24,559 [ERROR ] Main – the built-in ERROR level
+2019-12-17 13:53:24,560 [FATAL ] Main – the built-in FATAL level
+2019-12-17 14:05:41,570 [DIAG  ] Main – a diagnostic message
+2019-12-17 14:05:41,570 [NOTICE] Main – another diagnostic message
+2019-12-17 14:05:41,570 [REPAIR] Main – another REPAIR message
+2019-12-17 14:05:41,570 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-12-17 14:05:41,571 [INFO  ] Main – the built-in INFO level
+2019-12-17 14:05:41,571 [WARN  ] Main – the built-in WARN level
+2019-12-17 14:05:41,571 [ERROR ] Main – the built-in ERROR level
+2019-12-17 14:05:41,571 [FATAL ] Main – the built-in FATAL level
